@@ -1,0 +1,619 @@
+@media (max-width: 1200px) {
+    .header-menu li a {
+        padding: 10px 15px;
+        font-size: 15px;
+    }
+}
+
+
+
+@media (max-width: 992px) {
+    .slider-text {
+        width: 28%;
+    }
+    .slider-text h6 {
+        font-size: 13px;
+    }
+    .slider-text h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .slider-text p {
+        font-size: 14px;
+    }
+    body .btn-primary {
+        padding: 8px 22px;
+        font-size: 14px;
+    }
+    .social-icon ul span::after {
+        width: 40px;
+        top: 9px;
+        left: 85px;
+    }
+    .social-icon ul li {
+        padding-right: 30px;
+    }
+    .social-icon ul span {
+        font-size: 16px;
+    }
+    .logo-section-img img {
+        width: 90px;
+    }
+    .about-img{
+        text-align: center;
+    }
+    .similar-part h6 {
+        font-size: 14px;
+    }
+    .about-right {
+        width: 80%;
+        padding: 20px 0;
+    }
+    .similar-part h3 {
+        font-size: 30px;
+    }
+    .similar-part p {
+        font-size: 15px;
+    }
+    .about-text p {
+        font-size: 17px;
+    }
+    .about-text ul li {
+        font-size: 15px;
+    }
+    .animation-left {
+        position: relative;
+        text-align: center;
+    }
+    .apply-loan-left {
+        width: 80%;
+    }
+    .apply-loan-left h2 {
+        font-size: 30px;
+    }
+    .apply-counter ul li h4 {
+        font-size: 21px;
+    }
+    .apply-counter ul li p {
+        font-size: 15px;
+    }
+    .apply-counter ul li::before {
+        left: -29px;
+        top: -2px;
+        height: 40px;
+        width: 40px;
+        font-size: 20px;
+    }
+    
+    .loan-heading h3 {
+        font-size: 32px;
+    }
+    .form-group select {
+        font-size: 15px;
+        height: 45px;
+    }
+    .loan-form .form-group input {
+        padding: 11px 15px;
+    }
+    .similar-part h3 {
+        font-size: 22px;
+    }
+    .company-value-right i::after {
+        left: -13px;
+        top: -9px;
+        width: 45px;
+        height: 45px;
+    }
+    .company-value-right i {
+        font-size: 25px;
+    }
+    .company-value-right a {
+        font-size: 17px;
+    }
+    .left h3 {
+        font-size: 30px;
+    }
+    .left-text h4 {
+        font-size: 22px;
+    }
+    .left-icon i {
+        font-size: 33px;
+        width: 60px;
+    }
+    .left {
+        width: 70%;
+        margin: auto;
+    }
+    .right img {
+        width: 70%;
+        margin: 0 15%;
+    }
+    .tab-content-image img {
+        width: 70%;
+    }
+    .testomonial-content-txt h4 {
+        font-size: 18px;
+        width: 85%;
+    }
+    .testomonial-content-txt h5 {
+        font-size: 17px;
+    }
+    .text-muted {
+        font-size: 14px;
+    }
+    .team-member-content h5 {
+        font-size: 18px;
+    }
+    .team-member-content p {
+        font-size: 14px;
+    }
+    .team-member-social ul li i {
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+    }
+    .footer-widget {
+        text-align: center;
+    }
+    .footer-widget p {
+        width: 65%;
+        margin: auto;
+    }
+
+    /* .submenu {
+        width: 160px;
+        left: 90px;
+        padding: 0px 0;
+    }
+    .header-menu li:hover .submenu {
+        opacity: 1;
+        visibility: visible;
+        top: 35%;
+    } */
+
+}
+
+
+@media (max-width: 768px) {
+    .about-img img {
+        width: 80%;
+    }
+    .img-txt-inner h2 {
+        font-size: 45px;
+    }
+    .img-txt-inner p {
+        font-size: 11px;
+    }
+    .img-txt {
+        right: 80px;
+        width: 150px;
+        height: 140px;
+    }
+    .animation-left {
+        width: 65%;
+        margin: auto;
+    }
+    .animation-left img {
+        width: 100%;
+    }
+    .play-animation-btn {
+        width: 70px;
+        height: 70px;
+        font-size: 49px;
+    }
+    .play-animation-btn::before {
+        width: 60px;
+        height: 60px;
+        left: 6px;
+        top: 5px;
+    }
+    .apply-loan-left h2 {
+        font-size: 24px;
+    }
+    .apply-counter ul li h4 {
+        font-size: 19px;
+    }
+    .apply-counter ul li p {
+        font-size: 14px;
+    }
+    .company-value-right {
+        margin-right: 120px;
+    }
+    .company-value-right::after {
+        top: 4px;
+        width: 270px;
+        height: 1px;
+    }
+    .services-tab ul li span i {
+        font-size: 30px;
+    }
+    .services-tab ul li span i::after {
+        left: -10px;
+        top: 15px;
+        width: 50px;
+        height: 50px;
+    }
+    .tab-content-text h4 {
+        font-size: 20px;
+    }
+    .tab-content-text p {
+        color: #606060;
+        padding-right: 33px;
+        line-height: 28px;
+        font-size: 13px;
+    }
+    .testomonial-content-txt h4 {
+        font-size: 15px;
+    }
+    .testomonial-content-txt h5 {
+        font-size: 15px;
+    }
+    .testomonial-content-txt p {
+        font-size: 13px;
+    }
+    .testomoni-content-image img {
+        width: 70%;
+    }
+    .team-member {
+        text-align: center;
+    }
+    .team-member-content {
+        text-align: center;
+    }
+    .team-member-content h5 {
+        font-size: 17px;
+    }
+    .team-member-content p {
+        font-size: 12px;
+    }
+    .slider-content {
+        height: 55vh;
+    }
+    .slider-section {
+        background-attachment: scroll;
+    }
+    /* .submenu {
+        width: 160px;
+        left: 90px;
+        padding: 0px 0;
+    }
+    .header-menu li:hover .submenu {
+        opacity: 1;
+        visibility: visible;
+        top: 35%;
+    } */
+
+}
+
+@media (max-width: 576px) {
+    .navbar-brand img {
+        width: 50%;
+    }
+    .navbar-toggler {
+        margin-right: 35px;
+    }
+    .slider-text {
+        width: 15%;
+    }
+    .slider-text h1 {
+        font-size: 14px;
+    }
+    .slider-text p {
+        font-size: 10px;
+    }
+    .slider-text h6 {
+        font-size: 8px;
+    }
+    body .btn-primary {
+        padding: 6px 8px;
+        font-size: 10px;
+    }
+    .social-icon ul span {
+        font-size: 12px;
+    }
+    .social-icon ul span::after {
+        width: 35px;
+        top: 7px;
+        left: 62px;
+    }
+    .social-icon ul li a {
+        font-size: 12px;
+    }
+    .social-icon ul li {
+        padding-right: 15px;
+    }
+    .logo-section-img img {
+        width: 40px;
+    }
+    .img-txt {
+        right: 38px;
+        width: 86px;
+        height: 90px;
+    }
+    .img-txt-inner h2 {
+        font-size: 20px;
+    }
+    .img-txt-inner p {
+        font-size: 6px;
+    }
+    .similar-part h3 {
+        font-size: 14px;
+    }
+    .similar-part h6 {
+        font-size: 9px;
+    }
+    .similar-part p {
+        font-size: 8px;
+    }
+    .about-text p {
+        font-size: 12px;
+    }
+    .about-text ul li {
+        font-size: 10px;
+    }
+    .about-section {
+        padding: 35px 0;
+    }
+    .about-text ul {
+        margin-bottom: 0;
+    }
+    .animation-section {
+        padding: 35px 0;
+    }
+
+    /* Let's STarted to PlayButton */
+    .play-animation-btn {
+        width: 45px;
+        height: 45px;
+        font-size: 35px;
+    }
+    .fa-play-circle::before {
+        position: absolute;
+        top: 5px;
+        left: 5px;
+    }
+    .play-animation-btn {
+        right: 30%;
+        bottom: 0%;
+    }
+    .play-animation-btn::before {
+        width: 45px;
+        height: 45px;
+        left: 1px;
+        top: 0px;
+    }
+    .animation-right {
+        margin-top: 25px;
+    }
+    .card-icon i {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .card-icon {
+        font-size: 35px;
+    }
+    .card-item h3 {
+        font-size: 17px;
+    }
+    .py-4 {
+        padding-top: 1rem !important;
+        padding-bottom: 1rem !important;
+    }
+    .card-item p {
+        font-size: 11px;
+    }
+    .apply-loan-left h2 {
+        font-size: 15px;
+    }
+    .apply-counter ul li h4 {
+        font-size: 13px;
+    }
+    .apply-counter ul li p {
+        font-size: 11px;
+    }
+    .apply-counter ul li::before {
+        left: -25px;
+        top: -2px;
+        height: 30px;
+        width: 30px;
+        font-size: 12px;
+    }
+    .apply-counter ul::before {
+        left: 22px;
+        top: 0px;
+        height: calc(100% - 175px);
+    }
+    .loan-heading h3 {
+        font-size: 14px;
+    }
+    .loan-heading h6 {
+        font-size: 10px;
+    }
+    .loan-form .form-group label {
+        font-size: 11px;
+    }
+    .loan-form .form-group input {
+        padding: 10px 15px;
+        font-size: 10px;
+    }
+    .form-group select {
+        font-size: 10px;
+        height: 35px;
+    }
+    .similar-part h3 {
+        font-size: 15px;
+    }
+    .company-value-right {
+        margin-right: 5px;
+    }
+    .company-value-right a {
+        font-size: 16px;
+    }
+    .company-value-right i::after {
+        left: 0px;
+        width: 40px;
+        height: 40px;
+    }
+    .company-value-right i {
+        font-size: 25px;
+        padding-left: 11px;
+    }
+    .company-value-right a {
+        font-size: 14px;
+    }
+    .company-value-right::after {
+        left: -48px;
+        width: 305px;
+    }
+    .left h3 {
+        font-size: 18px;
+    }
+    .left-text h4 {
+        font-size: 15px;
+    }
+    .left-text p {
+        font-size: 10px;
+    }
+    .left-icon i {
+        font-size: 28px;
+        width: 50px;
+        margin-top: -10px;
+    }
+    .py-5 {
+        padding-top: 0rem !important;
+        padding-bottom: 0rem !important;
+    }
+    .services-tab ul li strong {
+        font-size: 11px;
+        padding: 0px 0;
+    }
+    .tab-content-text h4 {
+        font-size: 18px;
+        padding-top: 20px;
+    }
+    .tab-content-text p {
+        font-size: 11px;
+    }
+    .tab-content-text ul li {
+        font-size: 11px;
+    }
+    .testomonial-content-txt h4 {
+        font-size: 12px;
+        line-height: 20px;
+        padding-bottom: 0;
+        padding-top: 10px;
+    }
+    .testomonial-content-txt h5 {
+        font-size: 14px;
+    }
+    .testomonial-content-txt p {
+        font-size: 11px;
+    }
+    .team-member img {
+        width: 60%;
+        margin: 0px 20%;
+    }
+    .team-member-social ul li i {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+        font-size: 18px;
+    }
+    .team-member-social ul li {
+        padding-right: -6px;
+    }
+    .team-member-content h5 {
+        font-size: 15px;
+    }
+    .team-member-content p {
+        font-size: 10px;
+    }
+    .team-member-content {
+        margin-top: .5rem !important;
+    }
+    .team-heading {
+        padding-top: 30px;
+    }
+    .blog-section {
+        padding: 30px 0;
+    }
+    .blog-item img {
+        width: 70%;
+    }
+    .blog-txt h6 {
+        font-size: 10px;
+    }
+    .blog-txt h4 {
+        font-size: 18px;
+    }
+    .blog-item {
+        margin-bottom: 25px;
+    }
+    .blog-txt h4 {
+        padding-top: 0rem !important;
+        padding-bottom: 0rem !important;
+    }
+    .footer-widget p {
+        font-size: 10px;
+    }
+    .footer-widget ul li h6 {
+        font-size: 14px;
+    }
+    .footer-widget ul li a i {
+        font-size: 14px;
+    }
+    .footer-widget2 h5 {
+        font-size: 13px;
+    }
+    .footer-widget2 ul li a {
+        font-size: 12px;
+    }
+    .widget-txt {
+        font-size: 12px;
+    }
+    .widget-icon i {
+        font-size: 18px;
+    }
+
+    /* footer section */
+    .copyright-txt p {
+        font-size: 10px;
+    }
+    /* menu bar edited */
+    .header-menu li a {
+        padding: 5px 5px;
+        font-size: 12px;
+    }
+    .submenu ul{
+        left: 65px;
+        top: 73px;
+    }
+    /* .submenu ul li {
+        width: 160px;
+        transition-timing-function: none;
+        transition: none;
+   }
+    .submenu ul li a {
+        display: block; 
+        line-height: 30px;  
+    }
+    .header-menu li:hover .submenu {
+        opacity: 1;
+        visibility: visible;
+        top: 35%;
+    } */
+}
+
+/* .submenu ul li {
+     width: 160px;
+}
+.submenu ul li a {
+    display: block; 
+    line-height: 30px;  
+}
+.submenu ul {
+    left: 100px;
+    top: -73px;
+    box-shadow: none;
+} */
